@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.source_files = 'lib/ios/**/*.{h,m}'
 
   s.dependency 'React'
-  s.dependency 'AMapLocation', "~> 2.9.0"
+  s.dependency 'AMapLocation', "~> 2.8.0"
 end
